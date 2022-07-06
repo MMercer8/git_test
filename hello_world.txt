@@ -1,2 +1,3 @@
 Hello Odin!
 Excited to be a developer so fast!
+Testing the git commit -m flag
